@@ -1,10 +1,10 @@
 # Site settings
 title: XenSibleWeb
-description: Opensource XenServer and Ansible Mamagement Web Interface
+description: Opensource Cloud Automation Web Interface
 
 username: XenSibleWeb
 user_description: Opensource XenServer and Ansible Mamagement Web Interface
-user_title: Opensource XenServer & Ansible Management Web Interface
+user_title: Opensource Cloud Automation Web Interface
 email: xensibleweb@gmail.com
 twitter_username: xensibleweb
 github_username:  xensibleweb
